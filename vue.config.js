@@ -1,9 +1,10 @@
 const path = require('path')
 
 module.exports = {
-    transpileDependencies: [
-      '@inkline/inkline'
-    ],
+  publicPath: "./",
+  transpileDependencies: [
+    '@inkline/inkline'
+  ],
   pluginOptions: {
       'style-resources-loader': {
         'preProcessor': 'scss',
