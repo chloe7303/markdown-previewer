@@ -5,7 +5,7 @@
 - Vue.js
 - Vue CLI
 - Inkline (UI Framework)
-- * Node.js
+- Node.js
 
 ## 功能
 
